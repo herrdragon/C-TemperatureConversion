@@ -7,11 +7,7 @@
 /******************************************************************************/
 /* DOCUMENTATION */
 
-/* PROGRAMMER:  Luis M. Herrnsdorf  
-   ID: 5481644
-   CLASS:       COP4338 U03   TT 7:50
-   INSTRUCTOR:  William Feild
-   ASSIGNMENT:  #1.   DUE Tuesday 1/26 */
+/* PROGRAMMER:  Miguel Herrnsdorf  */
 
 /* DESCRIPTION: Program that prints a Temperature conversion table.  User is 
    asked to enter a number between 1 and 9 that will be use as a increasing 
