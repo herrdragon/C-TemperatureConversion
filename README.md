@@ -4,6 +4,9 @@ This program display Temperature conversion table in Celsius and Fahrenheit.  Us
 To use this program
 --------------------
 1- On the terminal, navigate to where the tempConversion.c file is.
+
 2- Run "gcc tempConversion.c -o tempConversion.out" to compile the program.
+
 3- Then run "./tempConversion.out" to execute the program.
+
 4- Follow the instructions on the screen.
